@@ -12,7 +12,7 @@
     <h2>:rocket: Technologies</h2>
     <p>This project was developed with the following technologies:</p>
     <ul>
-      <li><a href="https://vitejs.dev/guide/introduction.html" rel="nofollow">Vite.js</a></li>
+      <li><a href="https://vitejs.dev/guide/introduction.html" rel="nofollow">ViteJS</a></li>
     </ul>
     <h2>:information_source:</a> How To Use </h2>
     <p>To clone and run this application, you'll need <a href="https://git-scm.com" rel="nofollow">Git</a> and  <a href="https://legacy.yarnpkg.com" rel="nofollow">Yarn</a>. From your command line:</p>
